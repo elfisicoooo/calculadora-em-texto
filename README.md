@@ -1,4 +1,4 @@
-# calculadora-em-texto-baseada-em-c
+# calculadora-em-texto
 
 ### Descrição
 
