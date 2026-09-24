@@ -16,8 +16,8 @@ Uma calculadora que funciona inteiramente no terminal, com as quatro operações
 1. No terminal, digite:
    
    ```
-   git clone https://github.com/elfisicoooo/calculadora-em-texto-baseada-em-c
-   cd calculadora-em-texto-baseada-em-c
+   git clone https://github.com/elfisicoooo/calculadora-em-texto
+   cd calculadora-em-texto
    ```
 
 2. Após isso, compile com:
